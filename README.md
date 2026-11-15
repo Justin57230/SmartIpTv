@@ -1,3 +1,8 @@
+# Commande pour lancer le ps1
+```ps1
+powershell -ExecutionPolicy Bypass -File .\SmartIPTV_Windows.ps1 -AppName "Mon IPTV" -Logo "C:\chemin\logo.png"
+```
+
 # Guide d'installation — v1.0.0
 
 L'application est disponible sur Android, iOS, Web et Windows.
