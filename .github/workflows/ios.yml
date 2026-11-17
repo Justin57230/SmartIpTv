@@ -2,7 +2,7 @@ name: ios-ipa
 on: workflow_dispatch
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: macos-15
     defaults:
       run:
         working-directory: smart_iptv
